@@ -2,3 +2,5 @@
 
 # hình ảnh minh họa:
 ![Screenshot_Week4_homeworrk](https://github.com/linhlinhto/BT_T4/blob/main/Screenshot_Week4_homeworrk/Screenshot_Week4_homeworrk.png)
+![Screenshot_Week4_homeworrk](https://github.com/linhlinhto/BT_T4/blob/main/Screenshot_Week4_homeworrk/Screenshot_Week4_homeworrk2.png)
+![Screenshot_Week4_homeworrk](https://github.com/linhlinhto/BT_T4/blob/main/Screenshot_Week4_homeworrk/Screenshot_Week4_homeworrk3.png)
