@@ -2,6 +2,7 @@
 
 void setup() {
   Serial.begin(115200);
+  pinMode(LDR_PIN, INPUT);
 }
 
 void loop() {
